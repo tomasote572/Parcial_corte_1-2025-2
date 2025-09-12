@@ -56,12 +56,11 @@
    - Factory Method
    - Bridge
 
-
   - b. Tipo de Patrón (Creacional, Estructural o de Comportamiento).
     - Creacional
     - Estructural
-  
-  
+
+
   - c. Argumentación del porque se utiliza y como se ve reflejado en el diagrama de clases anterior
     - Creacion - Factory Method: se ve reflejado en la clase reportes donde puede crear objetos de la super clase mientras
       permite a las subclases pueden alterar algun tipo de objeto.
