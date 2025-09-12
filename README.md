@@ -1,0 +1,1 @@
+# Parcial_corte_1-2025-2
