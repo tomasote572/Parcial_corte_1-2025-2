@@ -39,6 +39,17 @@
         - Respecto a las tablas y las caracteristicas visuales el software tiene que estar en
           la capacidad de evoluvionar sin violar los pricipios solid, debido a esto tenemos la
           implementacion de este principio el cual puede seguir evolucionando sin tener que modificar
+          lo ya creados
+|   - Comportamientos de los solid elejidos
+      - El primero se encarga de que solo halla una instancia de ese objeto donde otras clases no hagan actividades
+        que no les corresponde
+      - El segundo nos permite hacer evolucionable el sistema que cada clase sea extensible pero no modificable con el
+        fin de hacer el software mas robusto y util
+      - El tersero se ve representado en las ultimas dos clases las cuales son interfaces y herencia permitiendo asi
+        añadir futuros comportamientos en los reportes sin necesidad de modifcar lo ya hecho esto nos permite respetar los
+        otros principios.
+          lo ya cread
+
           lo ya creados 
     - Comportamientos de los solid elejidos
       - El primero se encarga de que solo halla una instancia de ese objeto donde otras clases no hagan actividades
