@@ -68,11 +68,10 @@
       universidad un Reporte con ciertos requisitos aqui se ve como la relacion de se ve en adstraccion e implementacion para
       desarrollar independientemente la ina de la otra
 
-
 comandos:
 
-mvn compile
-mvn test
-mvn jacoco:report
-mvn sonar:sonar
-mvn clean verify sonar:sonar
+- mvn compile
+- mvn test
+- mvn jacoco:report
+- mvn sonar:sonar
+- mvn clean verify sonar:sonar
