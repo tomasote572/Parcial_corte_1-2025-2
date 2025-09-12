@@ -12,7 +12,6 @@
 ### sonar Corriendo
 ![img_2.png](img_2.png)
 
-
 comandos:
 
 mvn compile
