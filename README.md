@@ -60,7 +60,6 @@
     - Creacional
     - Estructural
 
-
   - c. Argumentación del porque se utiliza y como se ve reflejado en el diagrama de clases anterior
     - Creacion - Factory Method: se ve reflejado en la clase reportes donde puede crear objetos de la super clase mientras
       permite a las subclases pueden alterar algun tipo de objeto.
@@ -68,10 +67,21 @@
       universidad un Reporte con ciertos requisitos aqui se ve como la relacion de se ve en adstraccion e implementacion para
       desarrollar independientemente la ina de la otra
 
-comandos:
+5. implementamos las clases y sus aplicaciones.
+    - ![img_4.png](img_4.png)
 
-- mvn compile
-- mvn test
-- mvn jacoco:report
-- mvn sonar:sonar
-- mvn clean verify sonar:sonar
+6. Intentamos realizar pruebas las cuales sin el codigo completo no podemos desarrolar del todo
+- ![img_5.png](img_5.png)
+
+7. probamos que el jacoco 
+   - ![img_6.png](img_6.png)
+
+8. probamos el sonar qube funcionan
+   - ![img_7.png](img_7.png)
+
+- comandos:
+  - mvn compile
+  - mvn test
+  - mvn jacoco:report
+  - mvn sonar:sonar
+  - mvn clean verify sonar:sonar
