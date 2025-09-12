@@ -4,13 +4,13 @@
 - Tomas Felipe Ramirez Alvarez
 
 ### maven Corriendo
-![img.png](img.png)
+![img.png](docs/imagenes/img.png)
 
 ### jacoco Corriendo
-![img_1.png](img_1.png)
+![img_1.png](docs/imagenes/img_1.png)
 
 ### sonar Corriendo
-![img_2.png](img_2.png)
+![img_2.png](docs/imagenes/img_2.png)
 
 comandos:
 
