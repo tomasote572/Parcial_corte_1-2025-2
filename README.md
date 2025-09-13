@@ -25,7 +25,7 @@
 ----
 3. Realice un diagrama de clases que permita entender su solución, adicional
    mencione que principios SOLID está aplicando, en que componentes y como
-- ![img_8.png](img_8.png)
+- ![img_8.png](docs/imagenes/img_8.png)
 - ### solid
     - En los patrones solid utilizamos tres de ellos:
     - #### Single responsibility principle:
@@ -68,16 +68,17 @@
       desarrollar independientemente la ina de la otra
 
 5. implementamos las clases y sus aplicaciones.
-    - ![img_4.png](img_4.png)
+    - ![img_9.png](docs/imagenes/img_9.png)
 
-6. Intentamos realizar pruebas las cuales sin el codigo completo no podemos desarrolar del todo
-- ![img_5.png](img_5.png)
+6. Implementamos las pruebas unitarias
+   - ![img_10.png](docs/imagenes/img_10.png)
 
 7. probamos que el jacoco 
-   - ![img_6.png](img_6.png)
+   - ![img_11.png](docs/imagenes/img_11.png)
 
 8. probamos el sonar qube funcionan
-   - ![img_7.png](img_7.png)
+   - ![img_7.png](docs/imagenes/img_7.png)
+   - ![img_12.png](docs/imagenes/img_12.png)
 
 - comandos:
   - mvn compile
