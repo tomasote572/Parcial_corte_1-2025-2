@@ -15,9 +15,8 @@
         <java.version>17</java.version>
         <junit.jupiter.version>5.10.0</junit.jupiter.version>
         <jacoco.version>0.8.12</jacoco.version>
-
-        <!-- Configuración de SonarQube -->
-        <sonar.projectKey>Taller_Evaluativo_2025-2</sonar.projectKey>
+        <sonar.projectKey>parcial_corte_1-2025-2</sonar.projectKey>
+        <sonar.projectName>parcial_corte_1-2025-2</sonar.projectName>
         <sonar.host.url>http://localhost:9000</sonar.host.url>
         <sonar.token>squ_0f14fcfd889850aa719af84666aa6b3d7404a7a2</sonar.token>
 

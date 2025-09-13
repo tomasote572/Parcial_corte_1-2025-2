@@ -1,12 +1,15 @@
 package eci.edu.dosw.parcial.Parcial_Corte_1_CVDS.DOSW.Parcial;
 
-public class Reporte {
+public abstract class Reporte {
+    protected Exportador exportador;
 
-    private String tipoinforme;
-    private String informacion ;
-    private int Datos;
-    private int elementos;
-public interface ReporteTablas {
-        void notificar(Universidad universidad);
+    public Reporte(Exportador exportador) {
+        this.exportador = exportador;
     }
-}
+
+    public abstract void generar();
+    }
+
+    interface Exportador {
+        void exportar(String contenido);
+    }

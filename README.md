@@ -25,7 +25,7 @@
 ----
 3. Realice un diagrama de clases que permita entender su solución, adicional
    mencione que principios SOLID está aplicando, en que componentes y como
-- ![img_3.png](img_3.png)
+- ![img_8.png](img_8.png)
 - ### solid
     - En los patrones solid utilizamos tres de ellos:
     - #### Single responsibility principle:
